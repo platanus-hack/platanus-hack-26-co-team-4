@@ -14,7 +14,5 @@
   // (for example, a URL to download an APK).
   //
   // Portal publico de descarga (repo: index.html + .github/workflows).
-  // PENDIENTE: el boton "Download APK" del portal apunta a #download,
-  // no a un archivo. Hay que colgarle el APK real.
   "deploy-url": "https://auxio-portal.vercel.app"
 }
